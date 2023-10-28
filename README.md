@@ -9,6 +9,6 @@ SAR-ACD: X. Sun, Y. Lv, Z. Wang, and K. Fu, “SCAN: Scattering characteristics 
 
 
 ## Platform Requirements:
-MATLAB 2021Bb.
+MATLAB 2021b.
 
 CVX 3.0.
